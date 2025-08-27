@@ -1,7 +1,7 @@
 
-## 🖥️ ironTerm
+##  IronTerm
 
-**ironTerm** is a minimalist terminal emulator for macOS, focusing on simplicity, speed, and essential functionality.
+**IronTerm** is a minimalist terminal emulator for macOS, focusing on simplicity, speed, and essential functionality.
 
 ### Features
 
